@@ -17,5 +17,11 @@ https://courses.analyticsvidhya.com/courses/take/building-your-first-ml-model/le
 -- Visual Methods
 -- Statistical Methods
 
+Problem of Class Imbalance:
+10 Techniques to Solve Imbalanced Classes in Machine Learning (Updated 2026)
+https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-imbalance-in-machine-learning/
+-- Credit Card Fraud
+-- 
+
 
 
