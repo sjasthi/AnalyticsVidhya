@@ -28,5 +28,10 @@ https://www.analyticsvidhya.com/blog/2020/07/10-techniques-to-deal-with-class-im
 -- Credit Card Fraud
 -- 
 
+Regulirization
+https://courses.analyticsvidhya.com/courses/take/foundational-ml-algorithms-new/lessons/61854214-l1-regularization-linear-regression
+l1 lasso, l2 ridge, elastic net
+
+
 
 
