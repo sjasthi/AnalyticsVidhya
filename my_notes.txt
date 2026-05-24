@@ -1,0 +1,15 @@
+How to we make Predictions?
+https://courses.analyticsvidhya.com/courses/take/building-your-first-ml-model/lessons/53419331-how-do-we-make-predictions
+-- Mean/Median Base Models
+-- Rule Based Models
+-- Machine Learning Models
+
+Methodology of Evaluating Models:
+https://courses.analyticsvidhya.com/courses/take/building-your-first-ml-model/lessons/53734307-methodology-of-evaluating-predictions
+-- MAE
+-- RMSE
+-- Accuracy
+-- Precision
+-- Recall
+
+
