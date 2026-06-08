@@ -1,3 +1,4 @@
+# this is a yahoo stock API
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
